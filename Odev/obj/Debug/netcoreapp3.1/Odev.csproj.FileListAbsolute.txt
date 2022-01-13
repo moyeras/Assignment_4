@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.exe
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.deps.json
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.json
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.dll
+C:\Users\yusuf\source\repos\Odev\bin\Debug\netcoreapp3.1\Odev.pdb
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.dll
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.pdb
+C:\Users\yusuf\source\repos\Odev\obj\Debug\netcoreapp3.1\Odev.genruntimeconfig.cache
